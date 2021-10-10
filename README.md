@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @vinhduong1912
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hello các bạn mình là vinh
+- 👀 Bạn có thể tìm kiếm mình qua fb:Vinh
+- 🌱 Hiện tại mình đang học ở A14k56 Trường THPT Phú Lương
+- 💞️ Mình Đang yêu một bạn tên thanh
 
-<!---
-vinhduong1912/vinhduong1912 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
